@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/Task 2 - lost airplanes/data
+*.ipynb_checkpoints
+*/catboost_info
